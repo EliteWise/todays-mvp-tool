@@ -14,14 +14,3 @@ Supported tools:
 
 The result appears after the nightly earnings screen. If no supported tool was
 used, no extra screen is shown. Counters reset at the start of every day.
-
-## Build
-
-Install Stardew Valley and SMAPI, then run:
-
-```sh
-dotnet build TodaysMVPTool.csproj
-```
-
-The project uses SMAPI events and Stardew Valley's native menu queue; it doesn't
-use Harmony patches.

@@ -1,0 +1,11 @@
+{
+  "menu.title": "Outil MVP du jour",
+  "menu.used": "Utilisé {{count}} fois",
+  "menu.ok": "OK",
+  "tool.pickaxe": "Pioche",
+  "tool.axe": "Hache",
+  "tool.hoe": "Houe",
+  "tool.watering-can": "Arrosoir",
+  "tool.fishing-rod": "Canne à pêche",
+  "tool.scythe": "Faux"
+}

@@ -1,0 +1,11 @@
+{
+  "menu.title": "Today's MVP Tool",
+  "menu.used": "Used {{count}} times",
+  "menu.ok": "OK",
+  "tool.pickaxe": "Pickaxe",
+  "tool.axe": "Axe",
+  "tool.hoe": "Hoe",
+  "tool.watering-can": "Watering Can",
+  "tool.fishing-rod": "Fishing Rod",
+  "tool.scythe": "Scythe"
+}

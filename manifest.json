@@ -1,0 +1,10 @@
+{
+  "Name": "Today's MVP Tool",
+  "Author": "EliteWise",
+  "Version": "1.0.0",
+  "Description": "Tracks daily tool uses and shows the most-used tool after the nightly earnings screen.",
+  "UniqueID": "EliteWise.TodaysMVPTool",
+  "EntryDll": "TodaysMVPTool.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
